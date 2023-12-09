@@ -16,8 +16,8 @@
       {
         "tab1": {
           "layout": 1,
-          "buttontext": "<TextStyle.LightBlue>Welcome</>",
-          "title1": "<TextStyle.LightBlue>Welcome To US-Central!</>",
+          "buttontext": "Welcome",
+          "title1": "Welcome To US-Central!</>",
           "text1": "<TextStyle.LightBlue> This server is in early development.</> \n <TextStyle.LightBlue> If you need help ask in the Discord. </> \n <TextStyle.LightBlue> Donate; it helps run the server.</> \n <TextStyle.LightBlue> You can expect bugs!</> \n\n\n\n <TextStyle.LightBlue> HERE ARE THE RULES:</> \n <TextStyle.LightBlue> No Racism</> \n <TextStyle.LightBlue> No Griefing</> \n <TextStyle.LightBlue> No blocking off Obelisks</>",
           "imageurl": "https://i.imgur.com/KEWCANg.png"
         }
@@ -25,8 +25,8 @@
       {
         "tab1": {
           "layout": 1,
-          "buttontext": "<TextStyle.LightBlue>Shop</>",
-          "title1": "<TextStyle.LightBlue>Shop Information</>",
+          "buttontext": "Shop",
+          "title1": "Shop Information",
           "text1": "<TextStyle.Red> ➤</> <TextStyle.LightBlue>Press F2 to access the Shop.</> \n <TextStyle.LightBlue> ➤ Trading is also available in the Shop</> ",
           "imageurl": "https://i.imgur.com/KEWCANg.png"
         }
@@ -34,25 +34,25 @@
       {
         "tab2": {
           "layout": 2,
-          "buttontext": "<TextStyle.LightBlue>Information</>",
-          "title1": "<TextStyle.LightBlue>All Our Mods:</>",
+          "buttontext": "Information",
+          "title1": "All Our Mods:",
           "text1": "<TextStyle.LightBlue>List of Mods</> \n \n <TextStyle.LightBlue>Nanoh's Reusables (Cross Platform)</> \n <TextStyle.LightBlue>Additions Ascended: Archelon</> \n <TextStyle.LightBlue>Super Spyglass Plus</> \n <TextStyle.LightBlue>Dino Mindwipe</> \n <TextStyle.LightBlue>SnowOwls</> \n <TextStyle.LightBlue>PVE PLUS</> \n <TextStyle.LightBlue>Additions Ascended: Deinotherium</> \n <TextStyle.LightBlue>maewings</> \n <TextStyle.LightBlue>Additional Weapons:MW2022</> \n <TextStyle.LightBlue>Pelayori's Cryo Storage (Crossplay!)</> \n <TextStyle.LightBlue>Upgrade Station</> \n <TextStyle.LightBlue>Gryphons</> \n <TextStyle.LightBlue>VH Landscaping Mod</> \n <TextStyle.LightBlue>Additions Ascended: Ceratosaurus</> \n <TextStyle.LightBlue>Net Projectile</> \n <TextStyle.LightBlue>Additional Handheld Lights</> \n <TextStyle.LightBlue>Grumpee Games presents: Here there be Dragons</> \n <TextStyle.LightBlue>Cliffans Weapons: Western</> \n <TextStyle.LightBlue>Klinger Additional Ferry Boats</> \n <TextStyle.LightBlue>Better Rafts</> \n <TextStyle.LightBlue>AutoDoors</> \n",
           "title2": "",
-          "text2": "<TextStyle.LightBlue></>",
-          "imageurl": "https://i.imgur.com/QRcvKBC.png"
+          "text2": "",
+          "imageurl": "https://i.imgur.com/KEWCANg.png"
         }
       }
     ],
     "links": [
       {
         "link1": {
-          "text": "<TextStyle.LightBlue>Discord</>",
+          "text": "Discord",
           "url": "https://discord.gg/dGKNGJBewb"
         }
       },
       {
         "link1": {
-          "text": "<TextStyle.LightBlue>Donation Link</>",
+          "text": "Donation Link",
           "url": "https://server.nitrado.net/donations/donate/545680"
         }
       }
