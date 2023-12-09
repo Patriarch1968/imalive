@@ -23,13 +23,22 @@
         }
       },
       {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "<TextStyle.Black>Shop</>",
+          "title1": "<TextStyle.Black>Shop Information</>",
+          "text1": "<TextStyle.Red>➤</> <TextStyle.Black>Press F2 to access the Shop.</> \n <TextStyle.Black> ➤ Trading is also available in the Shop</> ",
+          "imageurl": "https://i.imgur.com/QRcvKBC.png"
+        }
+      },
+      {
         "tab2": {
           "layout": 2,
           "buttontext": "<TextStyle.Black>Information</>",
           "title1": "<TextStyle.Black>All Our Mods:</>",
           "text1": "<TextStyle.Black>List of Mods</> \n \n <TextStyle.Black>Nanoh's Reusables (Cross Platform)</> \n <TextStyle.Black>Additions Ascended: Archelon</> \n <TextStyle.Black>Super Spyglass Plus</> \n <TextStyle.Black>Dino Mindwipe</> \n <TextStyle.Black>SnowOwls</> \n <TextStyle.Black>PVE PLUS</> \n <TextStyle.Black>Additions Ascended: Deinotherium</> \n <TextStyle.Black>maewings</> \n <TextStyle.Black>Additional Weapons:MW2022</> \n <TextStyle.Black>Pelayori's Cryo Storage (Crossplay!)</> \n <TextStyle.Black>Upgrade Station</> \n <TextStyle.Black>Gryphons</> \n <TextStyle.Black>VH Landscaping Mod</> \n <TextStyle.Black>Additions Ascended: Ceratosaurus</> \n <TextStyle.Black>Net Projectile</> \n <TextStyle.Black>Additional Handheld Lights</> \n <TextStyle.Black>Grumpee Games presents: Here there be Dragons</> \n <TextStyle.Black>Cliffans Weapons: Western</> \n <TextStyle.Black>Klinger Additional Ferry Boats</> \n <TextStyle.Black>Better Rafts</> \n <TextStyle.Black>AutoDoors</> \n",
           "title2": "",
-          "text2": "<TextStyle.Black>Test Test to see if its the New lines breaking the colors</>",
+          "text2": "<TextStyle.Black></>",
           "imageurl": "https://i.imgur.com/QRcvKBC.png"
         }
       }
