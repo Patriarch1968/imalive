@@ -16,20 +16,20 @@
       {
         "tab1": {
           "layout": 1,
-          "buttontext": "<TextStyle.Grey>Welcome</>",
-          "title1": "<TextStyle.Grey>Welcome To US-Central!</>",
-          "text1": "<TextStyle.Grey>This server is in early development.</> \n <TextStyle.Grey>If you need help ask in the Discord. </> \n <TextStyle.Grey>Donate; it helps run the server.</> \n <TextStyle.Grey>You can expect bugs!</> \n\n\n\n <TextStyle.Grey>HERE ARE THE RULES:</> \n <TextStyle.Grey>No Racism</> \n <TextStyle.Grey>No Griefing</> \n <TextStyle.Grey>No blocking off Obelisks</>",
+          "buttontext": "<TextStyle.Black>Welcome</>",
+          "title1": "<TextStyle.Black>Welcome To US-Central!</>",
+          "text1": "<TextStyle.Black>This server is in early development.</> \n <TextStyle.Black>If you need help ask in the Discord. </> \n <TextStyle.Black>Donate; it helps run the server.</> \n <TextStyle.Black>You can expect bugs!</> \n\n\n\n <TextStyle.Black>HERE ARE THE RULES:</> \n <TextStyle.Black>No Racism</> \n <TextStyle.Black>No Griefing</> \n <TextStyle.Black>No blocking off Obelisks</>",
           "imageurl": "https://i.imgur.com/QRcvKBC.png"
         }
       },
       {
         "tab2": {
           "layout": 2,
-          "buttontext": "<TextStyle.Grey>Information</>",
-          "title1": "<TextStyle.Grey>All Our Mods:</>",
-          "text1": "<TextStyle.Grey>List of Mods</> \n \n <TextStyle.Grey>Nanoh's Reusables (Cross Platform)</> \n <TextStyle.Grey>Additions Ascended: Archelon</> \n <TextStyle.Grey>Super Spyglass Plus</> \n <TextStyle.Grey>Dino Mindwipe</> \n <TextStyle.Grey>SnowOwls</> \n <TextStyle.Grey>PVE PLUS</> \n <TextStyle.Grey>Additions Ascended: Deinotherium</> \n <TextStyle.Grey>maewings</> \n <TextStyle.Grey>Additional Weapons:MW2022</> \n <TextStyle.Grey>Pelayori's Cryo Storage (Crossplay!)</> \n <TextStyle.Grey>Upgrade Station</> \n <TextStyle.Grey>Gryphons</> \n <TextStyle.Grey>VH Landscaping Mod</> \n <TextStyle.Grey>Additions Ascended: Ceratosaurus</> \n <TextStyle.Grey>Net Projectile</> \n <TextStyle.Grey>Additional Handheld Lights</> \n <TextStyle.Grey>Grumpee Games presents: Here there be Dragons</> \n <TextStyle.Grey>Cliffans Weapons: Western</> \n <TextStyle.Grey>Klinger Additional Ferry Boats</> \n <TextStyle.Grey>Better Rafts</> \n <TextStyle.Grey>AutoDoors</> \n",
+          "buttontext": "<TextStyle.Black>Information</>",
+          "title1": "<TextStyle.Black>All Our Mods:</>",
+          "text1": "<TextStyle.Black>List of Mods</> \n \n <TextStyle.Black>Nanoh's Reusables (Cross Platform)</> \n <TextStyle.Black>Additions Ascended: Archelon</> \n <TextStyle.Black>Super Spyglass Plus</> \n <TextStyle.Black>Dino Mindwipe</> \n <TextStyle.Black>SnowOwls</> \n <TextStyle.Black>PVE PLUS</> \n <TextStyle.Black>Additions Ascended: Deinotherium</> \n <TextStyle.Black>maewings</> \n <TextStyle.Black>Additional Weapons:MW2022</> \n <TextStyle.Black>Pelayori's Cryo Storage (Crossplay!)</> \n <TextStyle.Black>Upgrade Station</> \n <TextStyle.Black>Gryphons</> \n <TextStyle.Black>VH Landscaping Mod</> \n <TextStyle.Black>Additions Ascended: Ceratosaurus</> \n <TextStyle.Black>Net Projectile</> \n <TextStyle.Black>Additional Handheld Lights</> \n <TextStyle.Black>Grumpee Games presents: Here there be Dragons</> \n <TextStyle.Black>Cliffans Weapons: Western</> \n <TextStyle.Black>Klinger Additional Ferry Boats</> \n <TextStyle.Black>Better Rafts</> \n <TextStyle.Black>AutoDoors</> \n",
           "title2": "",
-          "text2": "<TextStyle.Grey>Test Test to see if its the New lines breaking the colors</>",
+          "text2": "<TextStyle.Black>Test Test to see if its the New lines breaking the colors</>",
           "imageurl": "https://i.imgur.com/QRcvKBC.png"
         }
       }
@@ -37,13 +37,13 @@
     "links": [
       {
         "link1": {
-          "text": "<TextStyle.Grey>Discord</>",
+          "text": "<TextStyle.Black>Discord</>",
           "url": "https://discord.gg/dGKNGJBewb"
         }
       },
       {
         "link1": {
-          "text": "<TextStyle.Grey>Donation Link</>",
+          "text": "<TextStyle.Black>Donation Link</>",
           "url": "https://server.nitrado.net/donations/donate/545680"
         }
       }
